@@ -26,7 +26,8 @@ A comprehensive Laravel-based web application with modules for content managemen
 
 ## Screenshots
 -Register  
-![image](https://github.com/user-attachments/assets/082f770e-237d-4448-bd0b-3c85e7bf7740)
+![image](https://github.com/user-attachments/assets/c717e70d-0971-4114-a87a-99a10e7f37f4)
+
 
 -Login  
 ![image](https://github.com/user-attachments/assets/c926d228-7100-4fde-aee2-4e847587bef4)
