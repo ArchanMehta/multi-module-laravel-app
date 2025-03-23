@@ -43,7 +43,7 @@ A feature-rich web application built with Laravel, designed to streamline conten
 
 ## Admin Side 
 
-##Dashboard
+## Dashboard
 ![image](https://github.com/user-attachments/assets/e178f8a8-eb92-48ab-97c5-15e50bfe2dcc)
 
 ## Admin Accessiblilities
