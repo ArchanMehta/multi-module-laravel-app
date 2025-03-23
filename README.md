@@ -26,11 +26,11 @@ A comprehensive Laravel-based web application with modules for content managemen
 
 ## Screenshots
 
-###Register  
+##Register  
 ![image](https://github.com/user-attachments/assets/c717e70d-0971-4114-a87a-99a10e7f37f4)
 
 
-###Login  
+##Login  
 ![image](https://github.com/user-attachments/assets/c926d228-7100-4fde-aee2-4e847587bef4)
 
 
@@ -39,12 +39,12 @@ A comprehensive Laravel-based web application with modules for content managemen
 ##Dashboard
 ![image](https://github.com/user-attachments/assets/e178f8a8-eb92-48ab-97c5-15e50bfe2dcc)
 
-###Admin Accessiblilities
+##Admin Accessiblilities
 ![image](https://github.com/user-attachments/assets/e1c8e057-36d1-408d-8ade-6e179dd4df54)
 
 ## User Side
 
-###User Accessibilities
+##User Accessibilities
 ![image](https://github.com/user-attachments/assets/93de9224-d3eb-4a65-8840-46b7d1d2c2ce)
 
 
